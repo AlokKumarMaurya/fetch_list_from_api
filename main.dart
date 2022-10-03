@@ -48,7 +48,7 @@ class _AlokState extends State<Alok> {
   void initState()
   {
     super.initState();
-    data=fn("https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=toilet&location=26.849844828619787, 80.94489935593595&radius=500&type=toilet&key=AIzaSyCwzuYWCY4xuHAcacAmznC3u1kLexmKtUQ");
+    data=fn("https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=toilet&location=26.849844828619787, 80.94489935593595&radius=500&type=toilet&key=YOUR API KEY HERE");
   }
 
 
